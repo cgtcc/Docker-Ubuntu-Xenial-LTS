@@ -1,6 +1,6 @@
 # Docker-Ubuntu-latest-LTS
 
-Docker image based on the official Canonical cloud repository, available at : 
+Docker image based on the official Canonical cloud repository, available at : https://partner-images.canonical.com/core/xenial/current/
 
 This Docker image is pushed to docker.io/codecoaster/docker-ubuntu-latest-lts
 
