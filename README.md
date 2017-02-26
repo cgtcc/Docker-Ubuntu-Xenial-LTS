@@ -8,4 +8,4 @@ To run the image, there is no need to download this git repository.  Instead, <a
 
 <code>docker run codecoaster/docker-ubuntu-latest-lts</code>
 
-...or simply use <a href="https://kitematic.com/">Kitematic</a> if you are under Windows, or OsX : https://kitematic.com/
+...or simply use <a href="https://kitematic.com/">Kitematic</a> if you are under Windows, or OsX.
