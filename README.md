@@ -2,7 +2,7 @@
 
 Docker image based on the official Canonical cloud repository, available at : 
 
-This Docker image is pushed to https://www.docker.com/codecoaster/docker-ubuntu-latest-lts
+This Docker image is pushed to docker.io/codecoaster/docker-ubuntu-latest-lts
 
 To run this image, do : 
 
