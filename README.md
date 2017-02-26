@@ -4,8 +4,8 @@ This is a Docker based on the official Canonical cloud images repository, availa
 
 This Docker image is pushed to https://www.docker.com/codecoaster/docker-ubuntu-latest-lts
 
-In order to run this image from a Docker install on Linux / OsX :
+To run this image, do : 
 
 <code>docker run codecoaster/docker-ubuntu-latest-lts</code>
 
-...or use Kittematic if you are under Windows : https://docs.docker.com/toolbox/toolbox_install_windows/
+...or use Kitematic if you are under Windows, or OsX : https://kitematic.com/
