@@ -1,4 +1,6 @@
 FROM scratch
+# The following is a special Ubuntu release where the kernel and boot loader have been removed, 
+# since the primary use of this release is with LXC, the kernel and boot loader files aren't used.
 ADD ubuntu-xenial-core-cloudimg-amd64-root.tar.gz /
 
 # a few minor docker-specific tweaks
