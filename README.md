@@ -1,4 +1,4 @@
-# Docker-Ubuntu-latest-LTS
+# Docker Ubuntu 16.04 (latest LTS)
 
 Docker image based on the official Canonical cloud repository, available at : https://partner-images.canonical.com/core/xenial/current/
 
