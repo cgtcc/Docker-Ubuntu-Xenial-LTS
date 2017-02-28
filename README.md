@@ -7,7 +7,7 @@ It's the Docker base image used in Ghostbuntu : https://github.com/codecoaster/G
 
 Include it in your projects, as a basic Docker image, using the FROM statement inside your Dockerfile <br />:
 <code>
-FROM codecoaster/Docker-Ubuntu-Xenial-LTS:latest
+FROM codecoaster/docker-ubuntu-latest-lts:latest
 </code>
 
 To run the image in standalone mode, there is no need to download this git repository.  Instead, <a href="https://docs.docker.com/engine/installation/">install Docker</a> and do : 
